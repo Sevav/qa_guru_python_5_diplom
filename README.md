@@ -26,7 +26,7 @@
   <code><img width="5%" title="selenoid" src="resources/logo/selenoid.png"></code>
   <code><img width="5%" title="Allure Report" src="resources/logo/allure.png"></code>
   <code><img width="5%" title="Telegram" src="resources/logo/telegram.png"></code>
-  <code><img width="4%" title="Telegram" src="resources/logo/allure_testops.png"></code>
+  <code><img width="4%" title="Allure TestOps" src="resources/logo/allure_testops.png"></code>
 </p>
 
 
