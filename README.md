@@ -40,7 +40,7 @@
 
 #### После прохождения тестов, результаты можно посмотреть в Allure отчете или в Allure TestOps отчете
 
-## <img width="6%" title="Allure" src="resources/logo/allure.png"> Пример [Allure](https://jenkins.autotests.cloud/job/qa_guru_python_5_project/19/allure/) отчетов
+## <img width="6%" title="Allure" src="resources/logo/allure.png"> Пример отчетов в [Allure](https://jenkins.autotests.cloud/job/qa_guru_python_5_project/19/allure/)
 
 <p><img src="resources/screenshots/Allure-report.png" alt="Allure in Jenkins"/></p>
 
